@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Tickets;</h1>
+<p>ChildDiscount[12;</p>
+<p>MultidayDiscount[5;</p>
+<p>Oras Nou Resident[75,85,109,125;</p>
+<p>General Admission[85,99,109,125;</p>
+<p>Priority Bronze[145,165,185,199;</p>
+<p>Priority Silver[180,195,210,235;</p>
+<p>VIP Gold[215,225,250,295;</p>
+<p>VIP Deluxe[275,295,325,375;</p>
+
+<h1>Preferences;</h1>
+<p>AskForGCPP[true;</p>
+<p>Multi-DayLimit[4;</p>
+
+<h1>Links;</h1>
+<p>gcVipInfo[https://sites.google.com/view/gcresorthighland/tickets-and-passes/gc-vip;</p>
+<p>exploreAP[https://sites.google.com/view/gcresorthighland/things-to-do/adventure-park/attractions-and-entertainment;</p>
+<p>annualPass[https://sites.google.com/view/gcresorthighland/tickets-and-passes/annual-passports;</p>
+<p>information[https://sites.google.com/view/gcresorthighland/information;</p>
+
+
+</body>
+</html>
